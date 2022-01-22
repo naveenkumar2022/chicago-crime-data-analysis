@@ -1,4 +1,4 @@
-# chicago-crime-analysis-DSO510
+# chicago-crime-analysis
 
  In this project, we analyze the chicago crime data to predict probability of a crime leading to an arrest.
  We also estimate number of monthly crime incidents that occur.
